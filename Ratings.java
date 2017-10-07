@@ -25,7 +25,7 @@ public class Ratings
 
         try{
 
-            fr = new FileReader("E:\\Fall 2017\\CMPSC 221\\Problem Sets\\src\\ProblemSet2\\Movies.txt");
+            fr = new FileReader(" 'locatoin of the file' ");
             br = new BufferedReader(fr);
 
             String line;
